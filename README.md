@@ -1,2 +1,2 @@
-# escaner-b-sico.
+# escaner-basico.
 repositorio para el escáner de red.
